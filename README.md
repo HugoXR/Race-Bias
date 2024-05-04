@@ -1,5 +1,7 @@
 # Race-Bias
-Project to verify the racial bias in models (Vgg16, MobileNet, ResNet50) training with distincts databases (Fair Face, VggFace2, UTKFace)
+Project to verify the racial bias in models (Vgg16, MobileNet, ResNet50) training with distincts databases (Fair Face, VggFace2, UTKFace).
+
+The main content of this project it is in the jupyter-notebook racial_bias.ipynb file.
 
 ## Dependencies
 * python 3.10.12
@@ -7,6 +9,7 @@ Project to verify the racial bias in models (Vgg16, MobileNet, ResNet50) trainin
 * tensorflow 2.15.0
 * scikit-learn 1.4.0
 * keras 2.15.0
+* jupyterlab 4.0.10
   
 ## Data
 The Data is available through the websites: 
