@@ -15,7 +15,7 @@ The Data is available through the websites:
 * UTKFace - https://susanqq.github.io/UTKFace/
 
 ## Obs
-The Directorys:
+The Directories:
 * confusion_matrix
 * Dataset_Fair_Face - Where's train fair face dataset
 * Dataset_Fair_Face_test - Where's test fair face dataset for UTKFace trained models
